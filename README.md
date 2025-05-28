@@ -1,4 +1,4 @@
-# Raspian OS Lite and Squid on Pi 5 <!-- omit in toc -->
+# Raspian OS Lite and Squid with SSL on Pi 5 <!-- omit in toc -->
 
 This guide is to install Squid on a Rasperry PI 5 with an M.2 SSD and Raspian OS Lite.
 
